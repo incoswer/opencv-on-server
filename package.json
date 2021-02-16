@@ -1,0 +1,28 @@
+{
+  "name": "node-opencv",
+  "version": "1.0.0",
+  "description": "use opencv on node server",
+  "main": "app.js",
+  "scripts": {
+    "test": "run",
+    "run": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/incoswer/node-opencv.git"
+  },
+  "keywords": [
+    "node",
+    "opencv"
+  ],
+  "author": "Chernov, Zarubin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/incoswer/node-opencv/issues"
+  },
+  "homepage": "https://github.com/incoswer/node-opencv#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.7"
+  }
+}
