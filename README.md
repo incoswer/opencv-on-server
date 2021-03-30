@@ -1,4 +1,4 @@
-# opencv-on-server
+# README
 node-opencv server
 
 Добавьте папку "data"
