@@ -22,7 +22,9 @@
   },
   "homepage": "https://github.com/incoswer/node-opencv#readme",
   "dependencies": {
+    "brain.js": "*",
     "express": "^4.17.1",
+    "mnist": "^1.1.0",
     "nodemon": "^2.0.7"
   }
 }
